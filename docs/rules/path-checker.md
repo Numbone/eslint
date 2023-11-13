@@ -1,6 +1,6 @@
 # fsd relative path (`path-checker`)
 
-Please describe the origin of the rule here.
+Please describe the origin of the rule here.1
 
 ## Rule Details
 
